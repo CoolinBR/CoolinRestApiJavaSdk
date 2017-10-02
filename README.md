@@ -3,7 +3,15 @@ SDK do Coolin para Java
 
 Ajuda a criar aplicativos para uso das APIs Rest do Coolin.
 
+No SDK do Java
+------------
+* Login
 
+* Consulta de CPF
+
+* Lançamento de Compra
+
+* Foto do cliente
 
 
 
